@@ -1,12 +1,15 @@
 # Rayane's TODO LIST : 
-- []
-- []
-- []
+- [done] monte carlo code 
+- [done] euler explicit -> but not working
+- [done] euler implicit -> working 
 
 # Jassiem's TODO LIST : 
-- []
-- []
-- []
+- [done] ito lema -> demonstrate BS Asiatic Option ok
+- [done] variable change to get one dimension lower  
+
+
+# BOTH :
+- [in progress] : write the paper 
 
 
 
