@@ -2,6 +2,7 @@
 
 ## OUR OBJECTIVE : 
 
-    Our purpose is to modelling the price of an asiatic option and compute theses main caracteristics such as
-    delta, gamma and so on.
+    Our purpose is to modelling the price of an asiatic option. We seperate this projet in two parts :
+        - Make the theoretical compute to demonstrate the BS Asian Option
+        - Implement Euler Explicit and Implicit (Explicit not working)
 
