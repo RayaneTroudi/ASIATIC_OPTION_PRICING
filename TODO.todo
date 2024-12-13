@@ -1,6 +1,6 @@
 # Rayane's TODO LIST : 
 - [done] monte carlo code 
-- [done] euler explicit -> but not working
+- [done] euler explicit -> but not working ? due to the stability of the scheme.
 - [done] euler implicit -> working 
 
 # Jassiem's TODO LIST : 
