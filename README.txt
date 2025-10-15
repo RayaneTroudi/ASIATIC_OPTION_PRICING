@@ -10,6 +10,6 @@
 ## FILES AVAILABLES : 
     - .pdf with theoretical calculus
     - src code .py 
-    - the uses is explain in the .py , name variable are clear and understable.
+    - the uses is explain in the .py , name variable are clear and understandable.
 
 
